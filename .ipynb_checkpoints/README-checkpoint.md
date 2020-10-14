@@ -15,4 +15,5 @@ and importantly:
 ### Functionality
 Synthetic models and functions are gathered in `adverarial_sparse_toolbox.py`, whereas unsupervised and supervised dictionary models and learning functions are in `sparse_learnable_dictionary.py`.
 
+-------
 Comments and suggestions welcome at `jsulam1@jhu.edu`
