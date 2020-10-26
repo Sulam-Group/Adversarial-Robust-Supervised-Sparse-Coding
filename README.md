@@ -1,6 +1,7 @@
 # Adversially Robust Sparse Models
 
-This toolbox provides implementation for all experiments in the paper Adversarial Robustness of Supervised Sparse Coding, by J. Sulam, R. Muthukumar and R. Arora.
+This toolbox provides implementation for all experiments in the paper [Adversarial Robustness of Supervised Sparse Coding, by J. Sulam, R. Muthukumar and R. Arora](
+https://arxiv.org/pdf/2010.12088.pdf)
 
 Experiments are separated by jupyter notebooks for clarity. 
 
